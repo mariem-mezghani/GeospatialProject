@@ -29,8 +29,11 @@ These are the steps you should follow in order to configure PostreSQL:
 3. Create three tables: **lines**, **polygons**, and **points**.
 
 ### Run Geoserver
-
-
+After installing Geoserver, make sure to run it before executing the project using the following command:
+```
+%GEOSERVER_HOME%\bin\startup
+```
+The administration interface is accessible via the URL from your browser: http://localhost:8080/geoserver/web
 ### Run Project
 Follow these steps to run the project:
 1. Navigate to the **server.js** directory.
