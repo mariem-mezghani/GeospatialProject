@@ -10,10 +10,9 @@ This project involves creating a mapping application that allows the user to vis
 Before you begin, you should install:
  
 * Geoserver-2.18.2-bin
-[https://www.elastic.co/fr/downloads/past-releases/elasticsearch-8-10-4](https://sourceforge.net/projects/geoserver/files/GeoServer/2.18.2/geoserver-2.18.2-bin.zip/download)
-
+https://sourceforge.net/projects/geoserver/
 * PostreSQL 15
-[https://www.elastic.co/fr/downloads/past-releases/logstash-8-10-4](https://www.postgresql.org/download/)
+https://www.postgresql.org/download/
 
 Ensure that you also have **Node.js** and **npm** installed on your system. You can verify their installation by executing the following commands:
 ```
