@@ -28,7 +28,10 @@ These are the steps you should follow in order to configure PostreSQL:
 2. Make sure you have added the PostGIS extension to your database.
 3. Create three tables: **lines**, **polygons**, and **points**.
 
-### Server Configuration
+### Run Geoserver
+
+
+### Run Project
 Follow these steps to run the project:
 1. Navigate to the **server.js** directory.
 2. Run the following command:
